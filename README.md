@@ -3,7 +3,7 @@
 This utility library is used by all the other components of this textmining project.  
 Consequently, it must be built and installed locally before building and installing any other component of this project.
 
-## Local Installment and Deployment
+## Local Installation and Deployment
 
 ### Prerequisites
 
